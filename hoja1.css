@@ -1,0 +1,19 @@
+/* hoja de estilo hoja1.css*/
+center {
+	text-align: center;
+	text-decoration: underline;
+	font-size: 35px;
+	font-weight: 800;
+	font-family: Verdana;
+}
+
+body {
+	text-align: justify;
+	line-height: 80%;
+}
+div {
+	font-style: italic;	
+}
+
+p { margin: 0; 
+}
